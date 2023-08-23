@@ -4,4 +4,4 @@
 
 I've refactored the existing code by replacing all non-semantic elements with semantic html elements, cleaned up the structure positionings, added accessible alt attributes, made sure all heading attributes are in sequential order, and added a title.
 
-github.com/jennwintr/challenge1
+<a href="github.com/jennwintr/challenge1">
